@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Naveenaa
+Password: Navie2803
+URL: /api/checkLoggerData/Naveenaa/Navie2803
+Date: 7/13/2024, 8:35:20 AM
+Method Type: POST
+
